@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #weights file with training
-./OD/yolov3.weights
+OD/yolov3.weights
