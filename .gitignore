@@ -130,3 +130,5 @@ dmypy.json
 
 #weights file with training
 OD/yolov3.weights
+
+TownCentreXVID.avi
